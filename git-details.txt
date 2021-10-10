@@ -1,0 +1,6 @@
+git clone - to clone a repo
+git status - to know the status of what has been created updated or deleted but not commited. 
+git add - add file to online repo
+git add . (adds all files) or git add name of file. 
+git commit -m (message) -m flag represent message. eg git commit -m "This is my first commit"
+
